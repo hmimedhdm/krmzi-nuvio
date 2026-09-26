@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": "krmzi",
     "name": "Krmzi",
     "description": "Krmzi Turkish series provider",
@@ -15,4 +14,3 @@
     "disabledPlatforms": [],
     "supportsExternalPlayer": true
   }
-]
