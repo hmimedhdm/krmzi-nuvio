@@ -1,27 +1,31 @@
-[
 {
-"id": "krmzi",
-"name": "Krmzi",
-"description": "Krmzi Turkish series provider",
-"version": "1.0.0",
-"author": "Hdm Play",
-"supportedTypes": [
-"tv"
-],
-"filename": "providers/krmzi.js",
-"enabled": true,
-"logo": "",
-"contentLanguage": [
-"ar",
-"tr"
-],
-"formats": [
-"m3u8",
-"mp4",
-"mkv"
-],
-"limited": true,
-"disabledPlatforms": [],
-"supportsExternalPlayer": true
+  "name": "Krmzi Repo",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "krmzi",
+      "name": "Krmzi",
+      "description": "Krmzi Turkish series provider",
+      "version": "1.0.0",
+      "author": "Hdm Play",
+      "supportedTypes": [
+        "tv"
+      ],
+      "filename": "providers/krmzi.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4",
+        "mkv"
+      ],
+      "logo": "",
+      "contentLanguage": [
+        "ar",
+        "tr"
+      ],
+      "limited": true,
+      "disabledPlatforms": [],
+      "supportsExternalPlayer": true
+    }
+  ]
 }
-]
